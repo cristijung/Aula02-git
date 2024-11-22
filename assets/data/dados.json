@@ -5,5 +5,7 @@
     "altura": 1.89,
     "peso": 68,
     "cabelo": "preto",
-    "nacionalidade":"brasileira"
+    "nacionalidade":"brasileira",
+    "UF": "RS",
+    "cidade natal": "Porto Alegre"
 }
