@@ -3,5 +3,7 @@
     "sobrenome": "Silva",
     "idade": 18,
     "altura": 1.89,
-    "peso": 68
+    "peso": 68,
+    "cabelo": "preto",
+    "nacionalidade":"brasileira"
 }
